@@ -1,0 +1,23 @@
+[
+    {
+        "Mail" : "r.pereira@hotmail.com",
+        "Contraseña" : ,
+        "Nombre" : "Rafael Pereira",
+        "Fecha de Nacimiento" : "15/08/1982" 
+    }, 
+
+    {
+        "Mail" : "mari.lopez@gmail.com",
+        "Contraseña" : ,
+        "Nombre" : "Mariana López",
+        "Fecha de Nacimiento" : "13/05/1994"
+    }, 
+
+    {
+        "Mail" : "carolinapaz@gmail.com",
+        "Contraseña" : ,
+        "Nombre" : "Carolina Paz",
+        "Fecha de Nacimiento" : "29/11/1970"
+    }
+
+]
