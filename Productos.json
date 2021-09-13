@@ -2,14 +2,14 @@
 
 [
     {
-        "producto" : "Tapabocas biodegradables x10",
+        "nombre" : "Tapabocas biodegradables x10",
         "precio" : "400",
         "stock" : "Si/No",
         "codigo" : "xJm3"
     }, 
 
     {
-        "producto" : "Bolsas de residuos biodegradables",
+        "nombre" : "Bolsas de residuos biodegradables",
         "precio" : "500",
         "stock" : "Si/No",
         "codigo" : "sT22"
