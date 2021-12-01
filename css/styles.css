@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(178, 224, 178);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.site-header a {
+    color: white;
+    transition: ease-in-out color .15s;
+  }
+
+  .light-text {
+    color: white;
+  }
+
+  footer {
+    background-color: rgb(122, 153, 122);
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  footer p {
+    margin-bottom: .25rem;
+    color: white;
+  }
+  footer a {
+    color: darkblue;
+  }
